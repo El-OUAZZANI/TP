@@ -1,4 +1,4 @@
-#  About Me:
+# 💫 About Me:
 🚀 Hey there! I'm Mohamed Chafik Elouazzani<br>A passionate engineering student from Morocco.<br><br>🔧 What I Do<br><br>📚 Computer Engineering Preparatory Student<br><br><br>🇲🇦 Moroccan Tech Scene<br><br>🛠️ My Toolkit<br><br>💻 Programming Languages<br>C | HTML | CSS | SQL<br><br>🔧 Tools & Frameworks<br>Git | VS Code | Oracle SQL Developer<br><br>🖥️ Hardware Skills<br>Arduino <br><br>🌟 Goals<br><br>Contribute to open-source projects<br><br>Develop sustainable engineering solutions<br>
 
 
